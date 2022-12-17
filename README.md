@@ -1,1 +1,3 @@
 # DHU_GPA_calculator 东华大学绩点计算器
+
+这是一个基于WxPython开发的东华大学绩点计算器GUI
